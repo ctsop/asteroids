@@ -8,3 +8,5 @@
 #EXTRA RESOURCES TO READ
 # https://gameprogrammingpatterns.com/game-loop.html
 # https://medium.com/dataflair/type-explore-repeat-pythons-text-adventure-game-c6e255eaeef4
+# https://www.pygame.org/docs/index.html
+
